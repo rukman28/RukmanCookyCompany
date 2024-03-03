@@ -1,1 +1,1 @@
-500 celcius
+300 celcius
